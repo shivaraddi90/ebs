@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP shiva raddi";
+echo "My first PHP Shiva";
 ?>
 
 </body>
